@@ -16,12 +16,12 @@
           "bottomRow": 740,
           "containerStyle": "none",
           "snapRows": 74,
-          "parentRowSpace": 1,
+          "parentRowSpace": 0,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 71,
           "minHeight": 750,
-          "parentColumnSpace": 1,
+          "parentColumnSpace": 0,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
@@ -112,7 +112,7 @@
                 "parent",
                 "group"
               ],
-              "topRow": 14,
+              "topRow": 15,
               "bottomRow": 25,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
