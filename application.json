@@ -3,6 +3,10 @@
     {
       "id": "Login",
       "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -11,10 +15,10 @@
   "color": "#C7F3F0",
   "icon": "shake-hands",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
-    "type": "MOBILE"
+    "type": "DESKTOP"
   },
   "evaluationVersion": 2,
   "applicationVersion": 2,
